@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm Taher from Tunisia<br><br>- 🔭 I’m working as Mobile Developer<br>- 📚 I'm currently learning Computer Vision and Machine Learning<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Taher from Tunisia<br><br>- 🔭 I’m working as Mobile Developer<br>- 📚 I'm currently a computer science student<br>- ⚡ In my free time I study Computer Vision and Machine Learning</p>
 
 ###
 
